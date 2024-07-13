@@ -1,5 +1,6 @@
 # Salon Appointment Scheduler
 
+this is simple bash script used to
 ## Overview
 
 The Salon Appointment Scheduler is a command-line application designed to help manage appointments for a salon. It allows customers to book appointments for various services offered by the salon, such as haircuts, coloring, perms, styling, and trimming. The application handles customer information, service selection, and appointment scheduling.
